@@ -1,18 +1,20 @@
 body{
     background-color: smokewhite;
+    display: grid;
+    gap : 2rem;
  }
 
 
 .container{
     background-color: lightgreen;
     max-width: 100%;
-    border-radius: 0.3rem;
+    border-radius: 0.5rem;
     overflow: hidden;
     box-shadow: 3px 3px 10px 0px rgb(22, 11, 11);
-}
+ }
 
 .info{
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 h3
