@@ -1,0 +1,25 @@
+body{
+    background-color: smokewhite;
+ }
+
+
+.container{
+    background-color: lightgreen;
+    max-width: 100%;
+    border-radius: 0.3rem;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px 0px rgb(22, 11, 11);
+}
+
+.info{
+    padding: 1rem;
+}
+
+h3
+{
+color: blue;
+}
+
+h4{
+    color: black;
+}
